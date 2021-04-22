@@ -1,6 +1,6 @@
 {
   "name": "your-app",
-  "homepage": "http://Saad-Ali-Sheikh.github.io/STP",
+  "homepage": "http://Saad-Ali-Sheikh.github.io/login",
   "version": "0.1.0",
   "private": true,
   "// If You want to install mdbreact from our GitLab repository, please replace '5.0.1' with gitURL provided here ->": "git+https://oauth2:<YOUR-TOKEN-GOES-HERE>@git.mdbootstrap.com/mdb/react/re-pro.git",
