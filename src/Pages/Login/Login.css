@@ -1,7 +1,16 @@
 .Container
 {
     min-height: 600px;
-    display: flex;
-    
-    
+    display: flex; 
 }
+
+input.error {
+    border-color: red;
+  }
+  
+  .input-feedback {
+    color: rgb(235, 54, 54);
+    margin-top: -15px;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
